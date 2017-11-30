@@ -26,7 +26,7 @@
                <li><a href="#">Another notification</a></li>
              </drop-down>
           <li>
-            <a href="#" class="btn-rotate">
+            <a href="https://airyhq-shop.herokuapp.com/admin/" class="btn-rotate">
               <i class="ti-settings"></i>
               <p>
                 Settings

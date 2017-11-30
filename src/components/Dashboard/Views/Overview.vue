@@ -1,9 +1,8 @@
 <template>
-  <div>Vue paper dashboard starter template</div>
+  <div>Welcome to Business Admin Airy Shop</div>
 </template>
 <script>
   export default {}
 </script>
 <style>
-
 </style>
