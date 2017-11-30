@@ -1,6 +1,7 @@
-# dashboard-airy
+# Business Admin Airy
 
 > A Vue.js project
+> http://business-admin-airy.herokuapp.com
 
 ## Build Setup
 
